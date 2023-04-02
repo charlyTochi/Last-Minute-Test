@@ -27,7 +27,7 @@ export const AllPlayers = [
     playerName: 'Jordi Alba',
     playerPosition: 'RB + FCB Barcelona',
     playerForm: '90',
-    playerPrice: '100',
+    playerPrice: '20000',
     playerGoals: '9',
     image: require('../assets/images/red-j.png'),
   },
